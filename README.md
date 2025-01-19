@@ -1,6 +1,6 @@
 <p align="center"> <img alt="https://cdn.discordapp.com/attachments/1042728528392757310/1330500596108890194/Anomalus_Northern_City.png?ex=678e34bd&is=678ce33d&hm=f32452637cefa178f9f7a87b2468c8aa8fc69b970561dae6c1f77bd75f7f08d2&" width="300" height="300" src="https://cdn.discordapp.com/attachments/1042728528392757310/1330500596108890194/Anomalus_Northern_City.png?ex=678e34bd&is=678ce33d&hm=f32452637cefa178f9f7a87b2468c8aa8fc69b970561dae6c1f77bd75f7f08d2&" /></p>
 
-Anomalous Northern City - это проект созданный на основе ss14. Предлагаю вам посмотреть на альтернативный исход развития будущего.
+Anomalous Northern City - это проект созданный на основе ss14. Предлагаю вам посмотреть на альтернативный исход развития будущего. Выживание в бесконечной временной петле внутри заброшенного города. А сможешь ли ты захватить в нём власть?
 
 ## Ссылки
 
