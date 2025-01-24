@@ -4,7 +4,7 @@ Anomalous Northern City - это проект созданный на основ
 
 ## Ссылки
 
-[Discord](https://discord.gg/ucc4wvr8fc) проекта.
+[Discord](https://discord.gg/ucc4wvr8fc) проекта
 
 ## Лицензия
 
