@@ -1,0 +1,28 @@
+- type: entity
+  parent: [ClothingOuterHardsuitBase, BaseEngineeringContraband]
+  id: ClothingOuterHardsuitRadDrifter
+  name: Скафандр скитальца
+  description: Специальный защитный костюм первой модели. Способен выдержать аномальную активность петли времени.
+  components:
+  - type: Sprite
+    sprite: Clothing/OuterClothing/Hardsuits/engineering.rsi
+  - type: Clothing
+    sprite: Clothing/OuterClothing/Hardsuits/engineering.rsi
+  - type: PressureProtection
+    highPressureMultiplier: 0.04
+    lowPressureMultiplier: 1000
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Shock: 0.8
+        Caustic: 0.5
+        Radiation: 0.2
+  - type: ClothingSpeedModifier
+    walkModifier: 0.8
+    sprintModifier: 0.8
+  - type: HeldSpeedModifier
+  - type: ToggleableClothing
+    clothingPrototype: ClothingHeadHelmetHardsuitEngineering
