@@ -1,13 +1,14 @@
+# Hardsuit
 - type: entity
   parent: [ClothingOuterHardsuitBase, BaseEngineeringContraband]
   id: ClothingOuterHardsuitRadDrifter
-  name: Скафандр скитальца
-  description: Специальный защитный костюм первой модели. Способен выдержать аномальную активность петли времени.
+  name: скафандр скитальца
+  description: Специальный защитный костюм первой модели. Способен выдержать агрессивную среду нового мира..
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/engineering.rsi
+    sprite: ANC/Clothing/Hardsuit/rad-drifter.rsi
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/engineering.rsi
+    sprite: ANC/Clothing/Hardsuit/rad-drifter.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.04
     lowPressureMultiplier: 1000
@@ -25,4 +26,26 @@
     sprintModifier: 0.8
   - type: HeldSpeedModifier
   - type: ToggleableClothing
-    clothingPrototype: ClothingHeadHelmetHardsuitEngineering
+    clothingPrototype: ClothingHeadHelmetHardsuitRadDrifter
+
+# Helmet
+- type: entity
+  parent: ClothingHeadHardsuitWithLightBase
+  id: ClothingHeadHelmetHardsuitRadDrifter
+  name: шлем скитальца
+  description: Стеклянный шлем защитного скафандра. Хоть пыль в глаза не летит..
+  components:
+  - type: Sprite
+    sprite: ANC/Clothing/Helmet/rad-drifter.rsi
+    layers:
+    - state: icon
+  - type: Clothing
+    clothingVisuals:
+      head:
+      - state: equipped-HELMET
+  - type: PressureProtection
+    highPressureMultiplier: 0.08
+    lowPressureMultiplier: 1000
+  - type: TemperatureProtection
+    heatingCoefficient: 0.005
+    coolingCoefficient: 0.005
