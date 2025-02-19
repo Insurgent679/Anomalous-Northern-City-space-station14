@@ -8,7 +8,9 @@ Anomalous Northern City - это проект созданный на основ
 
 ## Лицензия
 
-Весь код для хранилища контента лицензирован в соответствии с [MIT](https://github.com/space-wizards/space-station-14/blob/master/LICENSE.TXT).
+Содержимое, добавленное в этот репозиторий после коммита bd193d5142230c9daee2d25e1854e1e5c19733fb, распространяется по лицензии GNU Affero General Public License версии 3.0, если не указано иное. См. LICENSE-AGPLv3.
+
+Содержимое, добавленное в этот репозиторий до коммита bd193d5142230c9daee2d25e1854e1e5c19733fb, распространяется по лицензии MIT если не указано иное. См. LICENSE.
 
 Большинство файлов лицензированы в соответствии с [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) если не указано иное. У ресурсов есть лицензия и авторские права на файл метаданных. [Example](https://github.com/space-wizards/space-station-14/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
 
