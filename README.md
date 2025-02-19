@@ -1,4 +1,4 @@
-<p align="center"> <img alt="Space Station 14" width="500" height="300" src="https://github.com/Insurgent679/Anomalous-Northern-City-space-station14/blob/master/Resources/Textures/Logo/Anomalus_Northern_City.png" /></p>
+<p align="center"> <img alt="Space Station 14" width="500" height="500" src="https://github.com/Insurgent679/Anomalous-Northern-City-space-station14/blob/master/Resources/Textures/Logo/Anomalus_Northern_City.png" /></p>
 
 Anomalous Northern City - это проект созданный на основе ss14. Предлагаю вам посмотреть на альтернативный исход развития будущего. Выживание в бесконечной временной петле внутри заброшенного города. А сможешь ли ты захватить в нём власть?
 
