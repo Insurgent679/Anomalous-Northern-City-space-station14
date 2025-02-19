@@ -1,4 +1,4 @@
-<p align="center"> <img alt="https://cdn.discordapp.com/attachments/1042728528392757310/1330500596108890194/Anomalus_Northern_City.png?ex=6794cc3d&is=67937abd&hm=214dfc78b2bd37690b9182f69cc17eb8decb2165ea05f547b4b701a68dd06afd&" width="300" height="300" src="https://cdn.discordapp.com/attachments/1042728528392757310/1330500596108890194/Anomalus_Northern_City.png?ex=6794cc3d&is=67937abd&hm=214dfc78b2bd37690b9182f69cc17eb8decb2165ea05f547b4b701a68dd06afd&" /></p>
+<p align="center"> <img alt="Space Station 14" width="880" height="300" src="https://github.com/Insurgent679/Anomalous-Northern-City-space-station14/blob/master/Resources/Textures/Logo/Anomalus_Northern_City.png" /></p>
 
 Anomalous Northern City - это проект созданный на основе ss14. Предлагаю вам посмотреть на альтернативный исход развития будущего. Выживание в бесконечной временной петле внутри заброшенного города. А сможешь ли ты захватить в нём власть?
 
