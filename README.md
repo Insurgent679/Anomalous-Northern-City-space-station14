@@ -14,4 +14,4 @@ Anomalous Northern City - это проект созданный на основ
 
 Большинство файлов лицензированы в соответствии с [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) если не указано иное. У ресурсов есть лицензия и авторские права на файл метаданных. [Example](https://github.com/space-wizards/space-station-14/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
 
-Обратите внимание, что некоторые активы лицензированы в соответствии с некоммерческим соглашением. [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) или аналогичные некоммерческие лицензии.
+Обратите внимание, что некоторые активы лицензированы в соответствии с некоммерческим соглашением. [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) или аналогичные некоммерческие лицензии
