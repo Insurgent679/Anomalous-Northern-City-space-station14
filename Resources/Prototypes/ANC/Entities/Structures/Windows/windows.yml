@@ -1,0 +1,12 @@
+- type: entity
+  parent: Window
+  id: ANCWindow
+  name: Window
+  components:
+  - type: Tag
+    tags:
+      - Wall
+  - type: Sprite
+    sprite: ANC\Structures\Windows\window.rsi
+  - type: Icon
+    sprite: ANC\Structures\Windows\window.rsi

@@ -1,0 +1,48 @@
+- type: entity
+  id: BaseRadiationCloude
+  abstract: true
+  placement:
+    mode: SnapgridCenter
+    snap:
+      - Wall
+  components:
+    - type: Appearance
+    - type: Transform
+      anchored: true
+    - type: Physics
+
+- type: entity
+  id: RadiationCloudeLight
+  name: RadiationCloudeLight
+  suffix: "[Light]"
+  parent: BaseRadiationCloude
+  components:
+    - type: RadiationSource
+      intensity: .75
+
+- type: entity
+  id: RadiationCloudeMedium
+  name: RadiationCloudeMedium
+  suffix: "[Medium]"
+  parent: BaseRadiationCloude
+  components:
+    - type: RadiationSource
+      intensity: 1.50
+
+- type: entity
+  id: RadiationCloudeHigh
+  name: RadiationCloudeHigh
+  suffix: "[High]"
+  parent: BaseRadiationCloude
+  components:
+    - type: RadiationSource
+      intensity: 2.25
+
+- type: entity
+  id: RadiationCloudeExtra
+  name: RadiationCloudeExtra
+  suffix: "[OH SHIT]"
+  parent: BaseRadiationCloude
+  components:
+    - type: RadiationSource
+      intensity: 5

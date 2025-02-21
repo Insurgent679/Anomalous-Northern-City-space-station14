@@ -1,0 +1,12 @@
+- type: entity
+  parent: WallSolid
+  id: ANCSolidWall
+  name: plastic wall
+  components:
+  - type: Tag
+    tags:
+      - Wall
+  - type: Sprite
+    sprite: ANC/Structures/Walls/solid.rsi
+  - type: Icon
+    sprite: ANC/Structures/Walls/solid.rsi
