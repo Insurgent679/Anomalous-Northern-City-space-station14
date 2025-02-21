@@ -55,6 +55,14 @@
       "directions": 4
     },
     {
+      "name": "man",
+      "directions": 4
+    },
+    {
+      "name": "women",
+      "directions": 4
+    },
+    {
       "name": "torso_m",
       "directions": 4
     }
